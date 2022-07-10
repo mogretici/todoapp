@@ -1,2 +1,2 @@
 #todoApp React project.
-Demo for: http://mogretici.me/todoapp/
+Demo for: https://mogretici.github.io/todoapp/
