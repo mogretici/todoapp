@@ -1,6 +1,6 @@
 {
     "name": "todoapp",
-    "homepage": "https://mogretici.me/todoapp",
+    "homepage": "https://mogretici.github.io/todoapp/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
