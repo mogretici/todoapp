@@ -5,7 +5,7 @@ function ToDo() {
   const [todoList, setTodoList] = useState([
     { name: "Taste JavaScript", done: false },
     { name: "Code furiously", done: false },
-    { name: "Promote Mavo", done: false },
+    { name: "Promote React", done: false },
     { name: "Have a life!", done: false },
   ]);
   const [todo, setTodo] = useState({ name: "", done: false });
